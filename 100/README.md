@@ -8,7 +8,7 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 
 ## What To Do?
 
-| Challenge | Description |
+| Challenges | Description |
 | --- | --- |
 | **Competing Priorities** | as we are often pulled in different directions. |
 | **Head Trash** | based on our own personal experiences, histories, and contexts. *Can't do* belief. |
