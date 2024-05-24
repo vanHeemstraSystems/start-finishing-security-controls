@@ -23,5 +23,5 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 | **Intention** | Begin with the end in mind. Know your purpose and what is expected from you. |
 | **Awareness** | is required to *know* what your best work is. |
 | **Boundaries** | - Positive boundaries: create space for something. Add.<br> - Negative boundaries: create space from something. Remove. |
-| **Courage** | when we don't notice the coffee shop, becasue we're looking for a Starbucks. President Theodore Roosevelt: "Do what you can, with what you've got, where you are." |
+| **Courage** | when lacking is holding us back from doing our *best* work. |
 | **Discipline** | when not focused on shared goals. Many of us have poor team alignment, not because the people on our team are in conflict, but becasue we're not communicating to our team what we want, need, and dream to be. |
