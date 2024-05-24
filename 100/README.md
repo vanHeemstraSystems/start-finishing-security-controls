@@ -18,7 +18,7 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 
 ## What To Do?
 
-| Using the Keys | Description |
+| Using the Keys | Keys contributions |
 | --- | --- |
 | **Align Competing Priorities**| - **Awareness**: Get clear about what matters to you, claim those priorities, and acknowledge that, try as you might, your reach will always exceed your grasp.<br> - **Boundaries**: Establish structures and expectations that limit the influence of other people's priorities. <br> - **Discipline**: Keep first things first, even when it's easy to buckle. |
 | **Take Out Head Trash**| - **Awareness**: Be aware of when self-defeating beliefs and patterns are present, and discern what's real and what's simply absorbed bullshit. <br> - **Courage**: Have the backbone to challenge those beliefs, design experiments that mitigate the patterns, and accept the reality that your choices and responses have been cocreating whatever you're experiencing. <br> - **Discipline**: Stick with challenging beliefs, experimenting, and taking responsibility to change; courage without discipline leads to fits and starts rather than deep change.|
