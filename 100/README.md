@@ -32,4 +32,4 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 | **Take Out Your Head Trash**| |
 | **Remove the No from No Realistic Plan**| |
 | **Overcome Too Few Resources**| |
-| **Get Your Team to Work With and For You**| |
+| **Turnaround Poor Team Alignment**| |
