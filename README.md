@@ -1,6 +1,9 @@
 start-finishing-security-controls
 # Start Finishing Security Controls
 
+== [Learning](https://github.com/vanHeemstraSystems/learning/) is the counterpart of [Creating](https://github.com/vanHeemstraSystems/creating/), like Yin (Black) and Yang (White) ==
+== [Start Finishing](https://github.com/vanHeemstraSystems/start-finishing/) is the time dimension of Learning and Creating ==
+
 Based on "Start Finishing - How to Go From Idea To Done" at https://www.charliegilkey.com/start-finishing/
 
 Based on "Spotify Live: Do we really all have the same 24 hours as Beyoncé? (Bonus Episode)" at https://www.productiveflourishing.com/p/spotify-live-do-we-really-all-have-658
