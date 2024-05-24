@@ -25,3 +25,11 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 | **Boundaries** | - Positive boundaries: create space for something. Add.<br> - Negative boundaries: create space from something. Remove. |
 | **Courage** | when lacking is holding us back from doing our *best* work. |
 | **Discipline** | Habits are discipline made automatic, but they're *made* automatic in the beginning and maintained via discipline. |
+
+| Useing the Keys | Description |
+| --- | --- |
+| **Align Competing Priorities**| |
+| **Take Out Your Head Trash**| |
+| **Remove the No from No Realistic Plan**| |
+| **Overcome Too Few Resources**| |
+| **Get Your Team to Work With and For You**| |
