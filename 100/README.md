@@ -18,7 +18,7 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 
 ## What To Do?
 
-| Useing the Keys | Description |
+| Using the Keys | Description |
 | --- | --- |
 | **Align Competing Priorities**| |
 | **Take Out Head Trash**| |
