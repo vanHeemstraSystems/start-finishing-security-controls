@@ -21,7 +21,7 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 | Useing the Keys | Description |
 | --- | --- |
 | **Align Competing Priorities**| |
-| **Take Out Your Head Trash**| |
+| **Take Out Head Trash**| |
 | **Remove the No from No Realistic Plan**| |
 | **Overcome Too Few Resources**| |
 | **Turnaround Poor Team Alignment**| |
