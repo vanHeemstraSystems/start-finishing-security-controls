@@ -6,6 +6,8 @@ This repository aims to help you in starting to finish the project of **security
 
 We are going to convert our *visionary* **ideas** into doable, *practical* **projects**.
 
+## What To Do?
+
 | Challenge | Description |
 | --- | --- |
 | **Competing Priorities** | as we are often pulled in different directions. |
@@ -13,3 +15,13 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 | **No Realistic Plan** | needs to connect your vision, purpose, and big goals with day-to-day reality. Create plans that adapt and shift with reality. |
 | **Too Few Resources** | when we don't notice the coffee shop, because we're looking for a Starbucks. President Theodore Roosevelt: "Do what you can, with what you've got, where you are." |
 | **Poor Team Alignment** | when not focused on shared goals. Many of us have poor team alignment, not becasue the people on our team are in conflict, but because we're not communicating to our team what we want, need, and dream to be. |  
+
+## How To Do It?
+
+| A | B |
+| --- | --- |
+| **Intention** | Begin with the end in mind. Know your purpose and what is expected from you. |
+| **Awareness** | is required to *know* what your best work is. |
+| **Boundaries** | - Positive boundaries: create space for something. Add.<br> - Negative boundaries: create space from something. Remove. |
+| **Courage** | when we don't notice the coffee shop, becasue we're looking for a Starbucks. President Theodore Roosevelt: "Do what you can, with what you've got, where you are." |
+| **Discipline** | when not focused on shared goals. Many of us have poor team alignment, not because the people on our team are in conflict, but becasue we're not communicating to our team what we want, need, and dream to be. |
