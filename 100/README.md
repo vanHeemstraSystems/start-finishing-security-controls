@@ -20,7 +20,7 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 
 | Using the Keys | Description |
 | --- | --- |
-| **Align Competing Priorities**| - Awareness: ...<br> - Discipline: ...<br> - Boundaries: ...|
+| **Align Competing Priorities**| - Awareness: get clear about what matters to you, claim those priorities, and acknowledge that, try as you might, your reach will always exceed your grasp.<br> - Discipline: ...<br> - Boundaries: ...|
 | **Take Out Head Trash**| |
 | **Remove the No from No Realistic Plan**| |
 | **Overcome Too Few Resources**| |
