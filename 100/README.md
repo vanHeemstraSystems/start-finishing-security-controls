@@ -18,7 +18,7 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 
 ## How To Do It?
 
-| A | B |
+| Means | Description |
 | --- | --- |
 | **Intention** | Begin with the end in mind. Know your purpose and what is expected from you. |
 | **Awareness** | is required to *know* what your best work is. |
