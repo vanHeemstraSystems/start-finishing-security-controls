@@ -6,7 +6,7 @@ This repository aims to help you in starting to finish the project of **security
 
 We are going to convert our *visionary* **ideas** into doable, *practical* **projects**.
 
-## What To Do?
+## Challenges that keep you from doing your *best* work
 
 | Challenges | Description |
 | --- | --- |
@@ -15,6 +15,16 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 | **No Realistic Plan** | needs to connect your vision, purpose, and big goals with day-to-day reality. Create plans that adapt and shift with reality. |
 | **Too Few Resources** | when we don't notice the coffee shop, because we're looking for a Starbucks. President Theodore Roosevelt: "Do what you can, with what you've got, where you are." |
 | **Poor Team Alignment** | when not focused on shared goals. Many of us have poor team alignment, not becasue the people on our team are in conflict, but because we're not communicating to our team what we want, need, and dream to be. |  
+
+## What To Do?
+
+| Useing the Keys | Description |
+| --- | --- |
+| **Align Competing Priorities**| |
+| **Take Out Your Head Trash**| |
+| **Remove the No from No Realistic Plan**| |
+| **Overcome Too Few Resources**| |
+| **Turnaround Poor Team Alignment**| |
 
 ## How To Do It?
 
@@ -26,10 +36,3 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 | **Courage** | when lacking is holding us back from doing our *best* work. |
 | **Discipline** | Habits are discipline made automatic, but they're *made* automatic in the beginning and maintained via discipline. |
 
-| Useing the Keys | Description |
-| --- | --- |
-| **Align Competing Priorities**| |
-| **Take Out Your Head Trash**| |
-| **Remove the No from No Realistic Plan**| |
-| **Overcome Too Few Resources**| |
-| **Turnaround Poor Team Alignment**| |
