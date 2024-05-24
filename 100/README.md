@@ -8,7 +8,7 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 
 | Challenge | Description |
 | --- | --- |
-| **Competing Priorities** | as we are foten pulled in different directions. |
+| **Competing Priorities** | as we are often pulled in different directions. |
 | **Head Trash** | based on our own personal experiences, histories, and contexts. *Can't do* belief. |
 | **No Realistic Plan** | needs to connect your vision, purpose, and big goals with day-to-day reality. Create plans that adapt and shift with reality. |
 | **Too Few Resources** | when we don't notice the coffee shop, becasue we're looking for a Starbucks. President Theodore Roosevelt: "Do what you can, with what you've got, where you are." |
