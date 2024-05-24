@@ -20,7 +20,7 @@ We are going to convert our *visionary* **ideas** into doable, *practical* **pro
 
 | Using the Keys | Description |
 | --- | --- |
-| **Align Competing Priorities**| - Awareness: get clear about what matters to you, claim those priorities, and acknowledge that, try as you might, your reach will always exceed your grasp.<br> - Discipline: Keep first things first, even when it's easy to buckle.<br> - Boundaries: Establish structures and expectations that limit the influence of other people's priorities.|
+| **Align Competing Priorities**| - **Awareness**: get clear about what matters to you, claim those priorities, and acknowledge that, try as you might, your reach will always exceed your grasp.<br> - **Discipline**: Keep first things first, even when it's easy to buckle.<br> - **Boundaries**: Establish structures and expectations that limit the influence of other people's priorities.|
 | **Take Out Head Trash**| |
 | **Remove the No from No Realistic Plan**| |
 | **Overcome Too Few Resources**| |
