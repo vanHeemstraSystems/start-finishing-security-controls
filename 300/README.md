@@ -6,6 +6,6 @@ See [README.md](./100/README.md)
 
 ## 200 - Part 2: Planning Your Project
 
-See [README.md](./100/README.md)
+See [README.md](./200/README.md)
 
 MORE
