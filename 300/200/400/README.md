@@ -1,3 +1,3 @@
-# 400 - 7. Keep Flying by Accounting for Drag Points
+# 400 - 7. Keep Flying By Accounting For Drag Points
 
 MORE
