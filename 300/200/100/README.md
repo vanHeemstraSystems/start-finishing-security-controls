@@ -16,3 +16,9 @@ Simply put, if a goal, project, or action step does not have a date assigned to 
 
 ![Idea_Choices](https://github.com/vanHeemstraSystems/start-finishing-security-controls/assets/1499433/c8edafcf-24af-4064-9d58-b46b341802a9)
 
+## Create Your Success Pack
+
+Your Success Pack is the group of people who are going to be instrumentally involved in helping you push your *best* work project to done.
+
+![Success_Pack](https://github.com/vanHeemstraSystems/start-finishing-security-controls/assets/1499433/28910b55-8474-4ff0-959f-206ea59c8c78)
+
