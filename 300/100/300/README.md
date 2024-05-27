@@ -2,9 +2,12 @@
 
 We pick: **Security Controls**
 
-| Security Control | Description |
-| --- | --- |
-| Access Control | |
+| Security Control | Learning | Creating |
+| --- | --- | --- | 
+| Access Control | | |
+| Authentication & Authorization Management |  |  |
+
+MORE
 
 ## Takeaways
 
