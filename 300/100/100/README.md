@@ -1,4 +1,4 @@
-# 100 - "Someday" Can Be Today
+# 100 - 1. "Someday" Can Be Today
 
 ## Takeaways
 
