@@ -2,6 +2,10 @@
 
 We pick: **Security Controls**
 
+| Security Control | Description |
+| --- | --- |
+| Access Control | |
+
 ## Takeaways
 
 - The more something matters to you, the more you'll thrash, precisely because its success or failure is deeply important to you.
