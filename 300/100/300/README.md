@@ -1,4 +1,4 @@
-# 300 - Pick An Idea That Matters To You
+# 300 - 3. Pick An Idea That Matters To You
 
 We pick: **Security Controls**
 
