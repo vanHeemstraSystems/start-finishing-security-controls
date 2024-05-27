@@ -14,4 +14,5 @@ Simply put, if a goal, project, or action step does not have a date assigned to 
 
 ## Turn an Idea (or Goal, or Plan, or Project) Into An Alternative, A Ban, A Commitment, Or A Deferral
 
+![Idea_Choices](https://github.com/vanHeemstraSystems/start-finishing-security-controls/assets/1499433/c8edafcf-24af-4064-9d58-b46b341802a9)
 
