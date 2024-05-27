@@ -2,7 +2,7 @@
 
 We pick: **Security Controls**
 
-| Security Control | Learning | Creating |
+| Security Control | [Learning](https://github.com/vanHeemstraSystems/learning-security-controls) | [Creating](https://github.com/vanHeemstraSystems/creating-security-controls) |
 | --- | --- | --- | 
 | Access Control | | |
 | Authentication & Authorization Management |  |  |
