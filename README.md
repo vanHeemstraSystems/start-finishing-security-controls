@@ -3,8 +3,8 @@ start-finishing-security-controls
 
 ![Start Finishing Security Controls - Stages](https://github.com/vanHeemstraSystems/start-finishing-security-controls/assets/1499433/18f04bab-c051-4f53-a104-bf00466fc2d5)
 
-== [Learning](https://github.com/vanHeemstraSystems/learning/) is the counterpart of [Creating](https://github.com/vanHeemstraSystems/creating/), like Yin (Black) and Yang (White) == <br>
-== [Start Finishing](https://github.com/vanHeemstraSystems/start-finishing/) is the **time** dimension of Learning and Creating ==
+== [Learning](https://github.com/vanHeemstraSystems/learning/) (```WHAT```) is the counterpart of [Creating](https://github.com/vanHeemstraSystems/creating/) (```HOW```), like Yin (Black) and Yang (White) == <br>
+== [Start Finishing](https://github.com/vanHeemstraSystems/start-finishing/) (```WHEN```) is the **time** dimension of Learning and Creating ==
 
 Based on "Start Finishing - How to Go From Idea To Done" at https://www.charliegilkey.com/start-finishing/
 
