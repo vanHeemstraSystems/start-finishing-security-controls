@@ -5,9 +5,32 @@ We pick: **Security Controls**
 | Security Control | [Learning](https://github.com/vanHeemstraSystems/learning-security-controls) | [Creating](https://github.com/vanHeemstraSystems/creating-security-controls) |
 | --- | --- | --- | 
 | Access Control | | |
-| Authentication & Authorization Management |  |  |
-
-MORE
+| Authentication & Authorization Management | | |
+| Content Filtering | | |
+| Network Segmentation | | |
+| Internet Access:<br>- Inbound<br>- Outbound | | |
+| Access Logging & Monitoring | | |
+| Opt Out:<br>- Filtering<br>- Functionality | | |
+| Data Labelling:<br>- Input Filtering<br>- Regulatory | | |
+| Contractual Agreements | | |
+| Conditional Access | | |
+| Security Hardening | | |
+| Plugins Control:<br>- Agents<br>- Multiple Agents | | |
+| Marketplace / Model Store Control | | |
+| Geofencing | | |
+| Memory | | |
+| Data Sovereignity | | |
+| Prompt & Response Logging & Monitoring | | |
+| Configuration Drift Monitoring | | |
+| Acceptable Use Policy Responsible AI | | |
+| Malware Scanning | | |
+| Private Account Usage | | |
+| Copyright Infringement Scanning | | |
+| Company Owned Encryption Keys | | |
+| Encryption:<br>- At Rest<br>- In Transit | | |
+| Intrusion Detection | | |
+| Back-up | | |
+| Model Theft | | |
 
 ## Takeaways
 
