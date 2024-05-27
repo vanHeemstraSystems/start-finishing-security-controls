@@ -1,4 +1,4 @@
-# 4. Convert Your Idea into a Project
+# 4. Convert Your Idea Into A Project
 
 ## Choose Your Desired Level of Success
 
