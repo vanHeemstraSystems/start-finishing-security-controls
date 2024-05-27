@@ -22,3 +22,9 @@ Your Success Pack is the group of people who are going to be instrumentally invo
 
 ![Success_Pack](https://github.com/vanHeemstraSystems/start-finishing-security-controls/assets/1499433/28910b55-8474-4ff0-959f-206ea59c8c78)
 
+## Don't Just Build Your Success Pack - Use It
+
+Here are the steps to go from idea to action on this strategy:
+
+![Success_Pack_Usage](https://github.com/vanHeemstraSystems/start-finishing-security-controls/assets/1499433/b23a3a06-f919-4087-80fd-6f8fbbf9e8a5)
+
