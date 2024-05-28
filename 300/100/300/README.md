@@ -50,7 +50,7 @@ Clayton Kjos explains the unflawed above matrix in [Replace your 2x2 Impact vs. 
 
 Next, make a table to decide on what idea should take priority over what other ideas.
 
-| Idea | Effort | Impact | Priorty Score (Effort / Impact) | Priority |
+| Idea | Impact | Effort | Priorty Score (Impact / Effort) | Priority |
 | -- | -- | -- | -- | -- |
 | Access Control | 8 | 2 | 4 | 1 |
 | Geofencing | 6 | 5 | 1.2 | 2 |
