@@ -34,6 +34,30 @@ See also [Security Controls Framework](https://securecontrolsframework.com/)
 | Back-up | | |
 | Model Theft | | |
 
+## Prioritize Tour Ideas
+
+Avoid to use the flawed Effort vs. Impact Matrix as shown below:
+
+![Security Controls Flawed Matrix](https://github.com/vanHeemstraSystems/start-finishing-security-controls/assets/1499433/de8b582b-1c2c-482f-80a2-16488a767ce7)
+
+Clayton Kjos explains the flaws of above matrix in [6 Major Flaws that make the Impact vs. Effort Matrix Obsolete](https://www.claytonkjos.com/blog/6-major-flaws-that-make-the-impact-vs-effort-matrix-obsolete).
+
+Instead use his unflawed Effort vs. Impact matrix:
+
+![Security Controls Unflawed Matrix](https://github.com/vanHeemstraSystems/start-finishing-security-controls/assets/1499433/618abbc0-c653-41f6-a19d-0e456e2b5657)
+
+Clayton Kjos explains the unflawed above matrix in [Replace your 2x2 Impact vs. Effort Matrix!](https://www.claytonkjos.com/blog/t88kggug5sz3p5asz8nx9pymze1d7n).
+
+Next, make a table to decide on what idea should take priority over what other ideas.
+
+| Idea | Effort | Impact | Priorty Score (Effort / Impact) | Priority |
+| -- | -- | -- | -- | -- |
+| Access Control | 8 | 2 | 4 | 1 |
+| Geofencing | 6 | 5 | 1.2 | 2 |
+| XYZ | 4 | 7 | 0.57 | 3 |
+
+Priority 1 is higher than priority 2.
+
 ## Takeaways
 
 - The more something matters to you, the more you'll thrash, precisely because its success or failure is deeply important to you.
