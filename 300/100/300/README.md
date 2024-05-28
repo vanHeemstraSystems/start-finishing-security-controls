@@ -34,7 +34,7 @@ See also [Security Controls Framework](https://securecontrolsframework.com/)
 | Back-up | | |
 | Model Theft | | |
 
-## Prioritize Tour Ideas
+## Prioritize Your Ideas
 
 Avoid to use the flawed Effort vs. Impact Matrix as shown below:
 
